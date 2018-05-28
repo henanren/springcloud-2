@@ -19,8 +19,8 @@
 	
 	<modules>
    <module>cloud-sleuth-server</module>
-     <module>cloud-sleuth-service1</module>
-     <module>cloud-sleuth-service2</module>
+     <module>cloud-sleuth-client1</module>
+     <module>cloud-sleuth-client2</module>
      
 	 <module>cloud-sleuth-stream-server</module>
 	 <module>cloud-sleuth-stream-service</module>
